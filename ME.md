@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shashank singh
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java
+- 📫 How to reach me https://www.linkedin.com/in/shashank-singh-4675a9202/
