@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="325" alt="Screenshot_20230226_133702" src="https://user-images.githubusercontent.com/104620107/221412536-2614e1e6-7614-4ce6-bb9a-fa057d6fe851.png">
 
 <!--
 **Shashank-singh2002/Shashank-singh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
+
