@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img width="325" alt="Screenshot_20230226_133702" src="https://user-images.githubusercontent.com/104620107/221412536-2614e1e6-7614-4ce6-bb9a-fa057d6fe851.png">![IBM DB0101EN Certificate _ Cognitive Class-1](https://user-images.githubusercontent.com/104620107/221412616-7e636b48-37cb-4b4c-9659-3433d7e14337.jpg)
+<img width="325" alt="Screenshot_20230226_133702" src="https://user-images.githubusercontent.com/104620107/221412536-2614e1e6-7614-4ce6-bb9a-fa057d6fe851.png">
+![IBM DB0101EN Certificate _ Cognitive Class-1](https://user-images.githubusercontent.com/104620107/221412616-7e636b48-37cb-4b4c-9659-3433d7e14337.jpg)
 
+[IBM DB0101EN Certificate _ Cognitive Class.pdf](https://github.com/Shashank-singh2002/Shashank-singh2002/files/10833759/IBM.DB0101EN.Certificate._.Cognitive.Class.pdf)
 
 <!--
 **Shashank-singh2002/Shashank-singh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
