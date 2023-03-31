@@ -1,8 +1,9 @@
 ### Hey there Coders 👋
 My Leetcode Statistics
 
+<img width="306" alt="Screenshot 2023-04-01 043837" src="https://user-images.githubusercontent.com/104620107/229248102-c34b805c-f28e-4133-80dc-0babbcbe0ad1.png">
 
-<img width="316" alt="Screenshot 2023-03-20 180237" src="https://user-images.githubusercontent.com/104620107/226339972-8a40d2ea-a2cd-433b-9b37-898a280d604e.png">
+
 
 
 
