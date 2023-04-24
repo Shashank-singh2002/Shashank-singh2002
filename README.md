@@ -2,7 +2,7 @@
 My Leetcode Statistics
 
 <img width="306" alt="Screenshot 2023-04-01 043837" src="https://user-images.githubusercontent.com/104620107/229248102-c34b805c-f28e-4133-80dc-0babbcbe0ad1.png">
-
+- 📫 How to reach me: https://www.linkedin.com/in/shashank-singh-4675a9202/
 
 
 
@@ -28,8 +28,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JAVA BACKEND.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about JAVA related problems.
-- 📫 How to reach me: https://www.linkedin.com/in/shashank-singh-4675a9202/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
 
