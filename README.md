@@ -1,7 +1,8 @@
 ### Hey there Coders 👋
 My Leetcode Statistics
 
-<img width="306" alt="Screenshot 2023-04-01 043837" src="https://user-images.githubusercontent.com/104620107/229248102-c34b805c-f28e-4133-80dc-0babbcbe0ad1.png">
+<img width="325" alt="Screenshot 2023-04-24 112814" src="https://user-images.githubusercontent.com/104620107/233911521-a6c1180a-2b98-469c-8f8d-780a3b4bdf06.png">
+
 - 📫 How to reach me: https://www.linkedin.com/in/shashank-singh-4675a9202/
 
 
