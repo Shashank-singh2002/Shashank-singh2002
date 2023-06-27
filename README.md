@@ -1,4 +1,4 @@
-### Hey there Coders 👋
+### Hey Gitties 👋
 My Leetcode Statistics
 
 <img width="315" alt="Screenshot 2023-05-09 171132" src="https://github.com/Shashank-singh2002/Shashank-singh2002/assets/104620107/3bdf6dd8-235a-4166-94d9-2fde3c2d228d">
