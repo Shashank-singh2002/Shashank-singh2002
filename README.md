@@ -1,5 +1,5 @@
 ### Hey Gitties 👋
-My Leetcode Statistics
+
 
 📫 How to reach me: https://www.linkedin.com/in/shashank-singh-4675a9202/
 
